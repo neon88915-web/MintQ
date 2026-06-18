@@ -1,6 +1,7 @@
 <img width="834" height="336" alt="MintengineQLogio" src="https://github.com/user-attachments/assets/e4a779d9-752d-4b49-b188-38ec021269be" />
 
 This is a Fork of the Quake Game engine But Aims to Boost FPS and make the engine run smoother
+trying to add support for moddern things such as .png modern texturing
 
 everything below this point is from the Quake source code page (id) non of this i writen by me
 
