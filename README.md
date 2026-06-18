@@ -2,6 +2,8 @@
 
 This is a Fork of the Quake Game engine But Aims to Boost FPS and make the engine run smoother
 
+everything below this point is from the Quake source code page (id) non of this i writen by me
+
 This is the complete source code for winquake, glquake, quakeworld, and 
 glquakeworld.
 
